@@ -1,0 +1,9 @@
+main:
+  - title: "Про сайт"
+    url: /about/
+  - title: "Рекрутерам"
+    url: /recruit/
+  - title: "¯\\_(ツ)_/¯"
+    url: /shrug/
+  - title: "Теги"
+    url: /tags/
