@@ -12,7 +12,6 @@ gem "jekyll", "~> 4.3.2"
 gem "jekyll-remote-theme"
 
 gem "tzinfo-data"
-gem "webrick", "~> 1.8"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
