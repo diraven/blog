@@ -6,7 +6,7 @@
         {
             "label": "run dev server",
             "type": "shell",
-            "command": "/snap/bin/hugo server --bind 0.0.0.0 --buildDrafts",
+            "command": "bundle exec jekyll serve --livereload",
             "problemMatcher": []
         },
         {
