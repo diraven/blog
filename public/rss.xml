@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Круківня 🐦‍⬛</title>
+        <link>https://diraven.com/</link>
+        <description>Життя прожити - не поле перейти.</description>
+        <generator>Hugo 0.119.0 https://gohugo.io/</generator>
+        
+            <language>uk</language>
+        
+        
+            <managingEditor>oleksa.pavlenko@gmail.com (DiRaven)</managingEditor>
+        
+        
+            <webMaster>oleksa.pavlenko@gmail.com (DiRaven)</webMaster>
+        
+        
+            <copyright>[Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+        
+        <lastBuildDate>Thu, 12 Oct 2023 11:06:39 &#43;0300</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://diraven.com/rss.xml" />
+        
+        
+            <item>
+                <title>Zettelkasten</title>
+                <link>https://diraven.com/posts/3e22c959-38ce-41ec-bc2b-893e9b96db37/</link>
+                <guid isPermaLink="true">https://diraven.com/posts/3e22c959-38ce-41ec-bc2b-893e9b96db37/</guid>
+                <pubDate>Thu, 12 Oct 2023 08:49:34 &#43;0300</pubDate>
+                
+                    <author>oleksa.pavlenko@gmail.com (DiRaven)</author>
+                
+                <copyright>[Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;Цеттелькастен - методика організації знань та ідей. Така собі мережа взаємопов&amp;rsquo;язаних карток які посилаються одна на одну. Подробиці та детальний опис як воно працює можна знайти в інтернеті &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://diraven.com/posts/3e22c959-38ce-41ec-bc2b-893e9b96db37/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Цеттелькастен дозволяє &amp;ldquo;вивантажити&amp;rdquo; з голови частину інформації в досить зручному форматі.&lt;/p&gt;
+&lt;p&gt;Потужна методика яка буде корисною, наприклад, для науковців при роботі над великими дослідженнями. Чи письменників, що працюють над цілими всесвітами. Або і звичайним людям накшталт автора.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://zettelkasten.de/posts/overview/&#34;&gt;zettelkasten.de (англійською)&lt;/a&gt;&amp;#160;&lt;a href=&#34;https://diraven.com/posts/3e22c959-38ce-41ec-bc2b-893e9b96db37/#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://diraven.com/tags/%D0%B5%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%96%D1%81%D1%82%D1%8C/">ефективність</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
