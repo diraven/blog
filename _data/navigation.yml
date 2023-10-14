@@ -7,3 +7,5 @@ main:
     url: /shrug/
   - title: "Теги"
     url: /tags/
+  - title: "Ліцензія"
+    url: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.uk
