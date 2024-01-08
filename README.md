@@ -4,4 +4,4 @@ Blog!
 
 # Update
 
-`bundle update`
+`bundle update && bundle install`
