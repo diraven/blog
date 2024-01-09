@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Пости on diraven.github.io</title>
+    <link>https://diraven.github.io/posts/</link>
+    <description>Recent content in Пости on diraven.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>uk</language>
+    <atom:link href="https://diraven.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zettelkasten</title>
+      <link>https://diraven.github.io/posts/zettelkasten/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://diraven.github.io/posts/zettelkasten/</guid>
+      <description>Цеттелькастен - методика організації знань та ідей. Така собі мережа взаємопов&amp;rsquo;язаних карток які посилаються одна на одну. Подробиці та детальний опис як воно працює можна знайти в інтернеті1.&#xA;Цеттелькастен дозволяє &amp;ldquo;вивантажити&amp;rdquo; з голови частину інформації в досить зручному форматі. Завжди можна повернутися до замітки та доповнити її. Якщо викласти думку на папері чи, наприклад, в файлах - вони перестають кружляти в голові. Очищають розум і звільняють місце для чогось ще. Допомагає залишатися сфокусованим на важливих на даний момент речах, а все решту скласти в отаку от бібліотеку-архів, де воно не лишиться і чекатиме свого часу.</description>
+    </item>
+  </channel>
+</rss>

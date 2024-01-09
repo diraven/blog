@@ -1,0 +1,25 @@
+---
+tags: [геймінг]
+draft: true
+---
+
+Arma 3 — відеогра серії Arma, розроблена студією Bohemia Interactive (BI) жанру тактичний шутер у відкритому світі.
+
+Одна з найкрутіших платформ на тему бойових дій. В плані реалізації, масштабу та можливостей по розширенню функціоналу спільнотою.
+
+Продається в стімі[^1].
+
+Одна з найкрутіших україномовних спільнот по грі - ArmA Ukraine[^2]:
+
+- (Трейлер)[https://www.youtube.com/watch?v=LwxTB_-q5L4]
+- (Ширлан)[https://www.youtube.com/watch?v=brzK3Nwc8qc]
+
+Один з найкращих доступних гайдів по грі написаний Dslyecxi[^3].
+
+Ще корисні посилання:
+
+- (КАТ Медицина, офіційний гайд)[https://docs.google.com/document/d/1YlY00qoL2gdrbOJJzi5aW19A3HqT7uXflszDYuK7h3M/edit#heading=h.o2zqe9mfqe9d]
+
+[^1]: [ArmA3 в Стімі](https://store.steampowered.com/app/107410/Arma_3/)
+[^2]: [ArmA Ukraine](https://discord.gg/DYA3dNS)
+[^3]: [Basic Infantry Skills - TTP3](https://ttp3.dslyecxi.com/basic_infantry_skills/)

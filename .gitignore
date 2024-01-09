@@ -2,6 +2,3 @@
 !.github
 !.gitignore
 !.vscode
-
-_site
-vendor
