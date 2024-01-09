@@ -1,0 +1,16 @@
+baseURL = 'https://diraven.github.io/'
+title = 'diraven.github.io'
+theme = 'ananke'
+languageCode = 'uk'
+DefaultContentLanguage = "uk"
+mainSections = ['posts']
+
+[[menu.main]]
+name = "Головна"
+url = "/"
+weight = -1
+
+[[menu.main]]
+name = "Ліцензія"
+url = "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.uk"
+weight = 1000

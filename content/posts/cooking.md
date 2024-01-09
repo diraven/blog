@@ -1,5 +1,6 @@
 ---
-tags: кулінарія
+tags: [кулінарія]
+draft: true
 ---
 
 - [Лазанья](https://klopotenko.com/lazanya-prostyi-retsept-italijskoi-stravy/)
