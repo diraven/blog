@@ -16,6 +16,11 @@ url = "/"
 weight = -1
 
 [[menu.main]]
+name = "Укр. Гендпан Спільнота"
+url = "/uhc/"
+weight = 999
+
+[[menu.main]]
 name = "Ліцензія"
 url = "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.uk"
 weight = 1000
