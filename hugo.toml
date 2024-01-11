@@ -1,9 +1,14 @@
 baseURL = 'https://diraven.github.io/'
 title = 'diraven.github.io'
-theme = 'ananke'
+theme = 'PaperMod'
 languageCode = 'uk'
 DefaultContentLanguage = "uk"
 mainSections = ['posts']
+
+[params]
+DateFormat = "02 January 2006"
+defaultTheme = "dark"
+
 
 [[menu.main]]
 name = "Головна"

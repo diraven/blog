@@ -1,7 +1,0 @@
----
-title: Абьюз
-tags: [психологія]
-draft: true
----
-
-- [Лекція "Виявлення та протидія аб'юзу" від Асі Сей](https://www.youtube.com/watch?v=5Uf8IZH8u-Q)

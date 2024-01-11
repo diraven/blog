@@ -6,8 +6,8 @@
         {
             "label": "run dev server",
             "type": "shell",
-            "command": "hugo server --port 4000 --navigateToChanged --buildDrafts",
-            // "command": "hugo server --port 4000 --navigateToChanged",
+            // "command": "hugo server --port 4000 --navigateToChanged --buildDrafts",
+            "command": "hugo server --port 4000 --navigateToChanged",
             "problemMatcher": []
         },
         {
