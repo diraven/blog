@@ -11,14 +11,9 @@ defaultTheme = "dark"
 
 
 [[menu.main]]
-name = "Головна"
-url = "/"
-weight = -1
-
-[[menu.main]]
 name = "Укр. Гендпан Спільнота"
 url = "/uhc/"
-weight = 999
+weight = 2
 
 [[menu.main]]
 name = "Ліцензія"
