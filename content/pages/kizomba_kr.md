@@ -23,4 +23,4 @@ draft: false
 
 # Ми чекаємо на вас!
 
-- [Telegram](+2nhs7UfbuVwxYjBi)
+- [Telegram](https://t.me/+2nhs7UfbuVwxYjBi)
